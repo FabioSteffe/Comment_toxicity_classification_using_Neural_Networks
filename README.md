@@ -8,3 +8,7 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview
 #### Dataset
 The dataset is provided at the following link:
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+#### GloVe
+The file Glove.6B.50d can be found at the following link:
+https://nlp.stanford.edu/projects/glove/
