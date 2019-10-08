@@ -1,5 +1,8 @@
 # Comment_toxicity_classification_using_Neural_Networks
+### Steffenino fabio
 Capstone Project for the Udacity's Machine learning engineer nanodegree
+
+report -> file capstone_report.pdf
 
 #### Overview
 Solution of the Toxic Comment Classification Challenge using Recurrent Neural Networks
